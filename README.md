@@ -130,4 +130,4 @@ Contributions are welcome! To contribute:
 
 ## Contact
 
-For questions or feedback, open an issue or contact [your-email@example.com](mailto:swntshrd1@gmail.com).
+For questions or feedback, open an issue or contact [Sharad Sawant](mailto:swntshrd1@gmail.com).
